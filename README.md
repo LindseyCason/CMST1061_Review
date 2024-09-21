@@ -1,8 +1,15 @@
 # CMST1061 Communication Fundamentals
 # LSU Alexandria
 ## CMST 1061 Professor Min Wu, Ph.D.
+---
+``` Wood: Communication Mosaics, 8e ```
 
-- Review for Exams in Markdown format (created from slides provided through chapters)
+[Link to the Book on Amazon](https://a.co/d/9DoJn5F)
+
+<img src="https://github.com/user-attachments/assets/c775cd45-72fc-46cb-bbc3-7820902f459b" alt="Image of the Cover of Communicaion Mosaics Book" width="200"/>
+
+---
+### Review for Exams in Markdown format (created from slides provided through chapters)
 
   - Please advise if anything is incorrect and needs to be updated.
   - Use at your own risk.
