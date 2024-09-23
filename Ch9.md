@@ -51,7 +51,6 @@
   - **Gender**
   - **Sexual Orientation**
   - **Socioeconomic Class**
-  - \*\*
 
 ---
 
